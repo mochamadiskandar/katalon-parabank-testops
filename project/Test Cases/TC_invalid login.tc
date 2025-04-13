@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_invalid login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44941a6c-384f-42e9-8c3a-6947770ed71e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f90efa77-e67f-4cd6-a950-a0e3928eef33</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fce97041-f17f-461c-9782-a37b7e6a6181</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'zzzzzz'</defaultValue>
+      <description></description>
+      <id>f90efa77-e67f-4cd6-a950-a0e3928eef33</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>fce97041-f17f-461c-9782-a37b7e6a6181</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
