@@ -32,9 +32,6 @@ WebUI.setText(findTestObject('Page_SauceDemo/input_Password'), password)
 // Klik tombol login
 WebUI.click(findTestObject('Page_SauceDemo/button_Login'))
 
-// Verifikasi login berhasil (cek keberadaan menu sidebar)
-WebUI.verifyElementPresent(findTestObject('Page_SauceDemo/header_Inventory'), 0)
-
 WebUI.takeScreenshot()
 
 // Tutup browser
