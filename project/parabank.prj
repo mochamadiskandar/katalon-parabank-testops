@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>parabank</name>
+   <name>scheduleTestOps</name>
    <tag></tag>
    <UUID>7b40c936-b12d-42aa-b3d6-34cd577038ce</UUID>
    <createdEdition>FREE</createdEdition>
@@ -11,7 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>E:\github\katalon-parabank-testops\project\parabank.prj</projectFileLocation>
+   <projectFileLocation>E:\github\katalon-test-schedule-testops\project\parabank.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
